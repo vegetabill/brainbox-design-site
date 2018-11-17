@@ -1,0 +1,21 @@
+---
+layout: post
+title: Continuous integration equally applies to your dependencies
+date: 2012-07-25 01:17:05.000000000 -07:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  _edit_last: '1'
+  _wp_old_slug: continuously-update-your-apps-dependencies-or-youre-not-practicing-continuous-integration
+---
+<p>Preface:<strong> </strong>I don't think I need to explain why continuous integration is A Good Thing.  If you don't understand that, look <a href="http://martinfowler.com/articles/continuousIntegration.html">elsewhere</a> for nice explanations.</p>
+<p>Continuous integration is a very beneficial process.  You integrate with every commit against the other devs working on the same codebase.  However, what about your application's dependencies?  What about integrating with the Rails developers? Or the jQuery developers?  Don't the same benefits apply?  I've been on quite a few teams and it seems like we treat external libraries very differently from our own (or our own organization's) code.  We fit the mold of what the Build Doctor calls "<a href="http://www.build-doctor.com/2011/02/21/dependency-integration-promiscuous-vs-reluctant/">reluctant integrators</a>."  And I think this is actually a really dangerous process to follow, for many of the same reasons that practicing <em><strong>dis</strong></em>continuous integration is a bad idea with your own codebase.  It might seem nice and comforting at first, but over the years you'll end up under water with regard to technical debt.</p>
+<p>As an aside, it's worth mentioning at this point that if you're lucky enough that your codebase lasts long enough to feel the downstream damage from discontinuous integration with external dependencies, then congratulations.  Maybe it's the short lifespan (planned, anyhow) of most systems that has meant this problem is not talked about as often.</p>
+<p>For all of your libraries, you should have a periodic schedule to check for new versions and update to them.  The alternative is to postpone and magnify the pain of doing so, in the exact same way it would be for not pulling in your teammate's commits.  But should you practice continuous integration with them, meaning upgrade to every public release?</p>
+<p>I spent some time thinking about it and it seems like you should.  Commonly, people mention lack of stability as a reason not to.  I would then ask why you are using a library that you cannot count on the quality of.  Many projects have stable, long-term support or other more conservative packages to meet this need.  You can always use those if the developers are a little too experimental for your taste.</p>
+<p>When a new version comes out, pull it in.  After all, if your build goes red you can always revert.</p>
