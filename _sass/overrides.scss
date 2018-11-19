@@ -1,0 +1,29 @@
+/*
+* Overrides styles from the base theme
+*/
+
+h1, h2, h3, h4, h5, h6, .site-title {
+  font-family: 'Dosis', sans-serif;
+}
+
+.site-header {
+  background-color: $brand-color;
+  a, h1, h2, h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+  }
+  .page-link, .site-title {
+    color: white;
+  }
+}
+
+.site-title {
+  @include relative-font-size(2);
+  letter-spacing: 0;
+}
+
+.post-link {
+  color: $brand-color;
+}
+
