@@ -20,6 +20,7 @@ email: bill@brainbox.design
 description: >- # this means to ignore newlines until "baseurl:"
   Blog of Bill DePhillips, software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
+show_excerpts: true
 url: "http://brainbox.design" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: immutabill
 github_username:  vegetabill
