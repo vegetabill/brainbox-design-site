@@ -15,18 +15,19 @@ _2014-Present (SF, CA, USA)_
   * Nightly batch job that personalized deals to ~400k users rewritten in Pyspark, reducing runtime from 6 hours to 10 minutes
   * Simpler DynamoDB schema resulted in 20% less Java service code and 50% less read capacity
 
-### Homepage Overhaul
+### Homepage Rebuild
 * Rebuilt the complete web homepage using React inside existing large Rails app 
   * [Before](https://www.dropbox.com/s/htng8zrr91ztxof/pre-uxo-homepage.png?dl=0) vs [After](https://www.dropbox.com/s/nto3k6yciw0v2ta/full-launch-2-col.png?dl=0) (As of 2018, daily traffic of 2MM sessions)
 * Largest influencer for all technical decisions: React vs. Angular/Ember, style and architectural standards, ES6
 * Implementer of integration infrastructure to bridge new React with existing Rails
   * Pull requests and other contributions to [react-rails gem](https://github.com/reactjs/react-rails/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Avegetabill+)
 * Established official standards for view code on web using a living style guide, example code, and docs. Spread these new ideas across ~50 engineers at 2 office locations via instructor-led training and self-serve tutorials
+* Continued as steward of standards outside of team responsibilities, including new code using Redux
 
 ### Other Contributions
 * Mentored several developers, both within Goodreads and in Amazon Music
 * Formal mentor of two peer Tech Leads (Android, Ads)
-* Evangelized React Native and GraphQL through talks and three hackathon projects, culminating in Android and iOS launching a production feature being powered by both (Listopia, launched Q3 2018)
+* Evangelized React Native and GraphQL through talks and three hackathon projects, culminating in launching a production feature being powered by both (Listopia in Android & iOS, publicly released Q3 2018)
 * Co-organizer of Lightning Talk series for engineering and product/design to share their stories
 * Coached the team to use kanban for their workflow with survey results showing significantly higher ownership, engagement, and delivery performance (vs. Scrum). Evangelized process which led to two other teams adopting kanban
 
