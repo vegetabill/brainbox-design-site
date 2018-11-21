@@ -28,3 +28,15 @@ h1, h2, h3, h4, h5, h6, .site-title {
   color: $brand-color;
 }
 
+.post-content {
+  a {
+    border-bottom: 1px gray dotted;
+  
+    &:hover {
+      color: teal;
+      text-decoration: none;
+      border: 0;
+    }
+  }
+}
+
