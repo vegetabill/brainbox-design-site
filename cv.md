@@ -56,8 +56,8 @@ _2010-2014 (SF, CA, USA)_
 * [The TDD Express](bit.ly/1qYoCcT) - slides from Sillicon Valley Ruby Meetup
 
 ### Extracurriculars
-* [Techtonica](https://techtonica.org/) (2017-Present). Volunteer curriculum developer and open source project manager. Non-profit software boot camp offered tuition-free with stipend to Bay Area women/non-binary low-income residents.
-* [Railsbridge](http://railsbridge.org/) (2012-Present). Volunteer teacher and event organizer.  Community-run open-source workshops teaching Rails to women. 
+* [Techtonica](https://techtonica.org/) (2017-Present) - Volunteer. Non-profit software boot camp offered tuition-free with stipend to Bay Area women/non-binary low-income residents.
+* [Railsbridge](http://railsbridge.org/) (2012-Present) - Volunteer teacher and event organizer.  Community-run open-source workshops teaching Rails to women. 
 
 ### Education
 * MS, Information Science. University of Pittsburgh. 
