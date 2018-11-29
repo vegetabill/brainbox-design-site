@@ -43,10 +43,10 @@ _2010-2014 (SF, CA, USA)_
 * Provided L3 production support for global customers, including occasional site visits
 
 ### Additional Experience
-* Senior Backend Engineer. PersonalCapital.com. San Francisco. (2008 - 2010)
-* Software Engineer. RJ Lee Group.  Pittsburgh, PA. (2007 - 2008)
-* Web Design Contractor. DePhillips Design. (2005 - 2008)
-* Systems Programmer. University of Pittsburgh. (2006 - 2007)
+* Backend Engineer. PersonalCapital.com. San Francisco.
+* Software Engineer. RJ Lee Group.  Pittsburgh, PA.
+* Web Design Contractor. DePhillips Design.
+* Systems Programmer. University of Pittsburgh.
 
 ### Selected Writing
 * [Your Backlog is a Fridge](http://dephillipsdesign.com/2018/06/your-backlog-is-a-fridge/) - blog
@@ -61,6 +61,6 @@ _2010-2014 (SF, CA, USA)_
 
 ### Education
 * MS, Information Science. University of Pittsburgh. 
-Pittsburgh, PA, USA (2007). GPA: 3.9/4.0
-* BA, English. University of Mary Washington. Fredericksburg, VA, USA (2005). GPA: 3.7/4.0
+Pittsburgh, PA, USA. GPA: 3.9/4.0
+* BA, English. University of Mary Washington. Fredericksburg, VA, USA. GPA: 3.7/4.0
 
