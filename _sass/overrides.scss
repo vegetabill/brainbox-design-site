@@ -16,7 +16,13 @@ h1, h2, h3, h4, h5, h6, .site-title {
   .page-link, .site-title {
     color: white;
   }
+  @include media-query($on-palm) {
+    .page-link {
+      color: $brand-color;
+    }
+  }
 }
+
 
 .site-title {
   @include relative-font-size(2);
