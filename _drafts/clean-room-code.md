@@ -183,7 +183,7 @@ Even though the total aggregate risk is likely unchanged, it reduces the odds of
 
 This is especially common when your new feature adversely interacts with production traffic patterns that were not anticipated during development of the original feature and thus did not end up as unit test cases. Your new implementation, Clean Room or otherwise, might not handle this input and result in user-facing errors.
 
-Using Clean Room Code can limit the blast radius of this problem. In situations like this, I have had success calling both v2 and v1 in an important code path and the comparing its result to v1, capturing metrics for any discrepancies, while still returning the v1 result to callers.
+Using Clean Room Code can limit the blast radius of this problem. I have found success calling both v2 and v1 in an important code path and the comparing the return value of each implementation, recording metrics for any discrepancies, while still returning the v1 result to callers:
 
 ```javascript
 // super-important code path with dubious code coverage
@@ -274,7 +274,7 @@ If you’ve supported a long-lived API, I’m sure you have noticed direct paral
 
 I hope I’ve given you some food for thought for the next time you approach a medium or large architecture change in your codebase. If you’re interested, give this technique a try and see how it affects the end result, the risk of the changes, and the eventual state of the code. I think you’ll be happy to have another tool in your repertoire for dealing with your codebase.
 
-*Special thanks for the Goodreads Revenue Team __________ for feedback on drafts of this blog and for putting up with all my Clean Room Code pull requests.*
+*Special thanks for fellow Goodreaders, Aditi Sharma and William Cline, for feedback on drafts of this blog and for putting up with all my Clean Room Code pull requests.*
 
 
 
