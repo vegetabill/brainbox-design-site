@@ -15,7 +15,7 @@ Here is how I am using the term Clean Room Code:
 
 > When adding new behavior to existing code, instead of editing the existing implementation, grow a whole new implementation by using the old implementation's test cases as a guide.
 
-The new code will provide all the existing features as the existing implementation, and also the ones you are adding/changing, in a way that results in clearer, simpler code than if you tried to edit it in-place.
+The new code will provide all the existing features of the existing implementation, and also the ones you are adding/changing, in a way that results in clearer, simpler code than if you tried to edit it in-place.
 
 I settled on the name Clean Room Code because I often found myself reverse engineering desired behavior from unit tests, and so the parallel seemed helpful.
 
@@ -66,7 +66,7 @@ describe("rankUserReviews", () => {
 
 So far so good. 
 
-Now imagine this runs in production for awhile but then we notice a problem. Once a review achieves a bunch of Like’s, it will just stay at the #1 spot forever since it is at the top of the pile and is therefore most likely to receive further Like’s (especially since we don’t have any downvoting).
+Now imagine this runs in production for awhile but then we notice a problem. Once a review achieves a bunch of Likes, it will just stay at the #1 spot forever since it is at the top of the pile and is therefore most likely to receive further Like’s (especially since we don’t have any downvoting).
 
 The product team does some thinking and then decides we want to **give recent reviews a higher weight**, to allow new reviews to have a fair chance of getting some Like’s.
 
