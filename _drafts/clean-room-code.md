@@ -66,9 +66,9 @@ describe("rankUserReviews", () => {
 
 So far so good. 
 
-Now imagine this runs in production for awhile but then we notice a problem. Once a review achieves a bunch of Likes, it will just stay at the #1 spot forever since it is at the top of the pile and is therefore most likely to receive further Like’s (especially since we don’t have any downvoting).
+Now imagine this runs in production for awhile but then we notice a problem. Once a review achieves a bunch of Likes, it will just stay at the #1 spot forever since it is at the top of the pile and is therefore most likely to receive further Likes (especially since we don’t have any downvoting).
 
-The product team does some thinking and then decides we want to **give recent reviews a higher weight**, to allow new reviews to have a fair chance of getting some Like’s.
+The product team does some thinking and then decides we want to **give recent reviews a higher weight**, to allow new reviews to have a fair chance of getting some Likes.
 
 ### Typical Edit-in-Place Solution
 
@@ -92,9 +92,9 @@ const rankUserReviews = (reviews, opts = {}) => {
 ```
 [View entire file on Github](https://github.com/vegetabill/clean-room-code-example/blob/typical-solution/index.js#L10)
 
-Here we have added an optional arg to `rankUserReviews` and we use that inside the revised `scoreReview` function.
+Here we have added an optional arg to `rankUserReviews` and we use that inside the revised `scoreReview` function. Of course, an even simpler version is to just modify the code and remove support for the old algorithm, but in this case I'm imagining the requirements include an A/B test.
 
-This works perfectly well, especially the first time you do it. But what if the original function looks more like this:
+With or without the need for a new logical branch, editing the function works perfectly well, especially the first time you do it. But what if the original function looks more like this:
 
 ```javascript
 const friendLikes = Liker.isFriend(review.likes).length;
@@ -243,6 +243,10 @@ Don’t do it carelessly! Always take the extra time to move to a stable stoppin
 ### Overkill
 By definition, you’re adding more moving parts, more pull requests with bigger diffs, more live code paths (at least temporarily), and more production releases that stretch out the calendar time before the new feature is in user's hands. Obviously for something urgent with a tight timeframe, Edit-in-Place would be much preferred.
 
+#### Code Review Complexity
+Anyone reviewing the code needs to keep a more complex mental model in their head than the equivalent simpler diff for an Edit-in-Place solution. However, one possible upside to that burden is that it may result in a more fruitful design discussion. After all, if you're making a whole new implementation, that opens up many more possibilities. For an Edit-in-Place pull request, the reviewers will likely just take the existing structure as a given and evaluate if your change met the requirements without doing harm. These are two different focuses that each have their own benefits, but I think everyone would agree the Edit-in-Place pull request will end up being merged more quickly.
+
+#### Risk Reduction 
 And obviously this will not change the risk in a meaningful way if your method is used in several places, but one caller is vastly more important than all the others, such as a call from your app’s landing page that can cause a bad outage if there is a problem with v2. (Although you could mitigate this runtime toggles that let you send only a percentage of requests to v2).
 
 You’ll have to develop your own heuristics to know when it’s worth employing the Clean Room Code technique, but I will say **I have underused this technique more than I have overused it**, meaning there were some fairly large code changes I undertook where, in retrospect, I felt that applying the technique would have prevented issues but I did not choose it at the start since it seemed like the overhead was too high.
