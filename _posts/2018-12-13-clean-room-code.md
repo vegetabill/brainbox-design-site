@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean Room Code
-date: 2018-11-20
+date: 2018-12-13
 type: post
 excerpt: "Imagine if you never modified existing code but instead forked new versions..."
 tags: ['coding','continuous-delivery']
