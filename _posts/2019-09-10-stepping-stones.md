@@ -68,6 +68,7 @@ Your estimates vary wildly from reality. This usually means you are being too op
 * The deepest technical expert on the team is almost certainly an Implementer. It takes battle scars from multiple wars to get to this point and any time away from code adds little to these skills.
 * _(Feels like struggle)_. Instead of focusing only on the best/fastest/cheapest way to implement Solution X, you begin to look upstream to ask, “What problem is X is meant to solve?” Here you may be bump up against the constraints of spending the maximum possible percent of your time coding.
 * _(Also feels like struggle)_. When you feel that nobody on the team seems to listen to your great ideas, especially those that seem to be right in hindsight, you might be waking up to the need to influence the right person at the right time.
+
 #### Antipatterns
 * **Chasing Shiny Things**. At this stage you might lament doing legacy maintenance and be drawn toward Greenfield Reboots or Silver Bullet Framework X.
 * **Perfectionism**. If you deliver good solutions but they take a long time or are complicated, you may need help in being more pragmatic about what “Good Enough” means for your context. If this is only surfaces as a problem after you already have a proven track record of delivering quickly, it instead may be a signal that you need new challenges that can let you express your hunger for complexity in a constructive way.
