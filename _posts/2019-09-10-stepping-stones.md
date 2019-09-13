@@ -43,7 +43,6 @@ Primarily just yourself. You help the team by asking good questions and improvin
 * **Struggling alone too long**. Everyone has their own threshold before giving up. Often named “Grit” in psychology research, some claim it’s predictive of success in many facets of life. However, much of the research deals with things you can solve on your own and are intrinsically self-teachable. With this in mind, you should definitely struggle longer on your own for how to implement something in Rails, an open-source framework with literally thousands of examples on StackOverflow, rather than on an internal framework for which you may not even know where to find tips to get yourself unstuck.
 * **Leaving the training wheels on too long**. This is common if you’re on a very experienced team with dominant personalities. This antipattern won’t actually hurt you too much at this level, but you should try to ratchet up the time you struggle alone over time, as you learn more. When senior folks go on vacation, it’s a great time to stretch your solo skills a bit or go talk directly with a different role where you normally rely on your tech lead or manager as an intermediary.
 * **Prioritizing what to learn**. At this stage, everything is new so it can be overwhelming with where to start. Seeking a little guidance for what to start with is extremely helpful. What did the most recent person to join the team focus on? What was helpful for her and what turned out to be a waste of time? Not all learning will be directly applicable to your current team/project and at this stage you really need to be tightly focused before thinking about more distant subjects.
-Aha Moment: You are proud of something you shipped that feels wholly yours.
 
 #### Aha Moment
 You are proud of something you shipped that feels wholly yours.
@@ -62,22 +61,23 @@ Your team’s codebase(s), top to bottom.
 #### People Scope
 Still primarily yourself but also your peer engineers. When relating to senior engineers, you will often be convincing them that Your Way is better. For peers and junior engineers, it will be helping them become another you on the team.
 #### Signals of Struggle 
-If you shy away from tough challenges, this may be a sign you’re not confident in your abilities. This may or may be accurate and you’ll need to check in with others to get objective measures (see also: Imposter Syndrome). 
-Your estimates vary wildly from reality. This usually means you are being too optimistic and are thinking of Ideal Dev Days that never happen. More seasoned engineers can help here. Shadow them for their estimation thought process. Sometimes it can help to estimate the time for someone else to do the work (especially a less-experience developer), rather than yourself.
+If you shy away from tough challenges, this may be a sign you’re not confident in your abilities. This may or may not be accurate and you’ll need to check in with others to get objective measures (see also: [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)). 
+Your estimates vary wildly from reality. This usually means you are being too optimistic and are thinking of Ideal Dev Days that never happen. More seasoned engineers can help here. Shadow them for their estimation thought process. Sometimes it can help to estimate the time for someone else to do the work (especially a less-experienced developer), rather than yourself.
 #### Signals of Success
-You are technically unstoppable. If your first solution doesn’t work, you will adapt your way around the obstacle and plow ahead anyway. Delivering results above and beyond will soon be taken for granted by your manager and team.
-The deepest technical expert on the team is almost certainly an Implementer. It takes battle scars from multiple wars to get to this point and any time away from code adds little to these skills.
-(Feels like struggle). Instead of focusing only on the best/fastest/cheapest way to implement Solution X, you begin to look upstream to ask, “What problem is X is meant to solve?” Here you may be bump up against the constraints of spending the maximum possible percent of your time coding.
-(Also feels like struggle). When you feel that nobody on the team seems to listen to your great ideas, especially those that seem to be right in hindsight, you might be waking up to the need to influence the right person at the right time.
+* **You are technically unstoppable**. If your first solution doesn’t work, you will adapt your way around the obstacle and plow ahead anyway. Delivering results above and beyond will soon be taken for granted by your manager and team.
+* The deepest technical expert on the team is almost certainly an Implementer. It takes battle scars from multiple wars to get to this point and any time away from code adds little to these skills.
+* _(Feels like struggle)_. Instead of focusing only on the best/fastest/cheapest way to implement Solution X, you begin to look upstream to ask, “What problem is X is meant to solve?” Here you may be bump up against the constraints of spending the maximum possible percent of your time coding.
+* _(Also feels like struggle)_. When you feel that nobody on the team seems to listen to your great ideas, especially those that seem to be right in hindsight, you might be waking up to the need to influence the right person at the right time.
 #### Antipatterns
 * **Chasing Shiny Things**. At this stage you might lament doing legacy maintenance and be drawn toward Greenfield Reboots or Silver Bullet Framework X.
 * **Perfectionism**. If you deliver good solutions but they take a long time or are complicated, you may need help in being more pragmatic about what “Good Enough” means for your context. If this is only surfaces as a problem after you already have a proven track record of delivering quickly, it instead may be a signal that you need new challenges that can let you express your hunger for complexity in a constructive way.
 * **Leaving to find a more receptive audience**. When first trying to influence, which usually does not come naturally for engineers (especially introverted ones), you may blame your audience for not listening and seek a new audiences elsewhere in a different part of your org or another org entirely. Maybe you think if you had a more important title, folks would have to listen to you. To be clear, sometimes it is a good idea to find a better fit. However, it’s very helpful to have a senior mentor who can help you discern the difference between a team where you could influence with some effort on your part to be a better influencer vs. the wrong team/project for you.
+
 #### Aha Moment
 You stare down the scoping/estimating of a new and unfamiliar project or escalated support ticket and feel no fear.
 
 
-## The Scout / Pathfinder
+## The Scout
 #### One line job description
 You draw on your hard-won experience to continuously nudge the team to make good choices.
 #### Code focus
@@ -94,7 +94,6 @@ Actively staying out of the weeds and instead looking ahead and even moving ahea
 #### Signals of success
 * **People ask what you think about things**. These may be developers from other teams and they may be business people thinking about opportunities. They want your perspective. This is not a bothersome distraction. It is one of your position's unique values.
 * **Real consensus**. You encounter a technical disagreement on the team and build consensus on a way forward diplomatically. Once resolved, the teams move on and the decision is not revisited.
-You successfully advocate for not building something. This could mean using a third-party solution or achieving the same business goal with human effort rather than automation. This role starts to focus more on the overall goal and questioning assumptions rather than accepting existing thinking.
 * **You successfully advocate for _not_ building something**. This could mean using a third-party solution or achieving the same business goal with human effort rather than automation. This role starts to focus more on the overall goal and questioning assumptions rather than accepting existing thinking.
 
 #### Antipatterns
@@ -120,11 +119,12 @@ Several software teams linked by common management, product ownership, or shared
 You miss the immediate feedback of delivering code. It might just be impatience or unrealistic expectations, but it’s helpful to have the mentorship of experienced practitioners to see how they measure their success. Vision is nebulous and can take years to become real. Everyone must find their own way to make it more concrete.
 #### Signals of success
 * **Others reference your ideas to make decisions**. The thinking you communicate in writing, in-person, and through your actions lead to more cohesion across teams. Concepts you reference work their way into the organization’s vocabulary.
-* **You dive head first into “unsolvable” problems**. You start seeing even the most painful legacy integration project to be full of opportunities rather than just a slog. You listen to the gripes of engineering team and help transform them into actionable steps.
+* **You dive head first into “unsolvable” problems**. You start seeing even the most painful legacy integration project to be full of opportunities rather than just a slog. You build trust so that you can transform vague gripes into actionable improvements.
 * Previously you looked further upstream. Now it’s likely you are actually the headwater for others, including your org’s senior management. Instead of just asking “Why are we doing X?” you find yourself saying, “Is there a hidden opportunity for us if we invest in Z?” that no one else is thinking about yet.
 #### Antipatterns
 * **Ivory Tower Architect**. You create a vision in a document but it fails to connect to team’s day-to-day. It seems too distant. It doesn’t help them make decisions. They either don’t understand it or don’t see it as a realistic endpoint.
 * **Gatekeeper**. The inverse of the above is someone who remains too involved in an individual team’s delivery. If you want to review the design of every feature on every team, you will likely become overwhelmed and be seen as a drag on delivery instead of an accelerator. You instead want to lean on the Scouts on each team to come to you with the toughest issues, not for the Right Answer but for additional data about how Design A vs. Design B either aligns more closely with or goes against the organization’s technical vision.
+
 #### Aha Moment 
 Your prose is mightier than your code. 
 
@@ -143,6 +143,6 @@ I wish you best of luck in finding your own path.
 Special thanks to [Sadique Ali Koothumadan](https://twitter.com/sdqali) for his valuable feedback on this post.
 
 ## Related Articles
-Meetup’s Roles
+[Meetup’s Roles](https://github.com/meetup/engineering-roles/)
 
 
