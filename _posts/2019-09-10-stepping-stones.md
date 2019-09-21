@@ -92,6 +92,8 @@ Actively staying out of the weeds and instead looking ahead and even moving ahea
 #### Signals of struggle
 * **Superficial consensus**. You thought you built consensus among the developers for a controversial decision (e.g. Node vs. Java for a new service) but notice passive aggressive grumblings and other signs that the consensus was merely superficial. “I told you so”’s are the clearest example of this.
 * **Healthy dose of humble pie**. As an Implementer you likely had endless ideas and since they existed in your own brain and never went to prod, you assumed they all would have worked out flawlessly had they been battle-tested. Now that your ideas are acted on, you may be dismayed to see that you weren’t as clever as you imagined. This is an inevitable growing pain. It just means you need to learn how to fail cheaply and have a better decision-making process in the future, often involving hearing more from others, especially non-engineers.
+
+
 #### Signals of success
 * **People ask what you think about things**. These may be developers from other teams and they may be business people thinking about opportunities. They want your perspective. This is not a bothersome distraction. It is one of your position's unique values.
 * **Real consensus**. You encounter a technical disagreement on the team and build consensus on a way forward diplomatically. Once resolved, the teams move on and the decision is not revisited.
@@ -122,6 +124,7 @@ You miss the immediate feedback of delivering code. It might just be impatience 
 * **Others reference your ideas to make decisions**. The thinking you communicate in writing, in-person, and through your actions lead to more cohesion across teams. Concepts you reference work their way into the organization’s vocabulary.
 * **You dive head first into “unsolvable” problems**. You start seeing even the most painful legacy integration project to be full of opportunities rather than just a slog. You build trust so that you can transform vague gripes into actionable improvements.
 * Previously you looked further upstream. Now it’s likely you are actually the headwater for others, including your org’s senior management. Instead of just asking “Why are we doing X?” you find yourself saying, “Is there a hidden opportunity for us if we invest in Z?” that no one else is thinking about yet.
+
 #### Antipatterns
 * **Ivory Tower Architect**. You create a vision in a document but it fails to connect to team’s day-to-day. It seems too distant. It doesn’t help them make decisions. They either don’t understand it or don’t see it as a realistic endpoint.
 * **Gatekeeper**. The inverse of the above is someone who remains too involved in an individual team’s delivery. If you want to review the design of every feature on every team, you will likely become overwhelmed and be seen as a drag on delivery instead of an accelerator. You instead want to lean on the Scouts on each team to come to you with the toughest issues, not for the Right Answer but for additional data about how Design A vs. Design B either aligns more closely with or goes against the organization’s technical vision.
