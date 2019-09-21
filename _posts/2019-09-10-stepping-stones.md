@@ -5,6 +5,8 @@ date: 2019-09-10
 type: post
 excerpt: "Where will your career take you?"
 tags: ['tech-leadership','soft-skills', 'career']
+description: "What kind of technical contributor would make me happy, draw on my strengths, and help me build new ones?"
+image: "/assets/mario-stairs-twitter.jpg"
 ---
 
 ## Intro

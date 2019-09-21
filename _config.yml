@@ -22,7 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 show_excerpts: true
 url: "http://brainbox.design" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: immutabill
+twitter:
+  username: immutabill
 github_username:  vegetabill
 goodreads_username: free-ebooks
 linkedin_username: bill-dephillips
@@ -32,8 +33,6 @@ minima:
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
