@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+.site-header, 
+.post-title,
+footer { 
+  display: none; 
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+  font: 400 12px "Crimson Text", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.cv__headshot {
+  max-height: 100px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 20px;
+}
