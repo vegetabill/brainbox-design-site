@@ -2,10 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-.site-header, 
+.site-header,
 .post-title,
-footer { 
-  display: none; 
+footer {
+  display: none;
 }
 
 a {
@@ -14,10 +14,11 @@ a {
 }
 
 body {
-  font: 400 12px "Crimson Text", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 12px "Crimson Text", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-.cv__headshot {
+.cv-headshot {
   max-height: 100px;
   border-radius: 50px;
   float: left;
