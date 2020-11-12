@@ -71,9 +71,9 @@ _2010-2014 (San Francisco)_
 
 ### Tech Lead - Mingle (Agile Software Project Management Tool, discontinued)
 
-- Evolved an on-premise Java server to a multi-tenant SaaS system supporting 40K users
+- Evolved an on-premise Java/JRuby app to a multi-tenant SaaS system supporting 40K users
 - Extracted separate service to handle user license data
-- Formally mentored three junior developers
+- Formally mentored several junior developers
 - Promoted the product with salespeople at several conferences
 - Provided L3 production support for global customers, including occasional site visits
 
