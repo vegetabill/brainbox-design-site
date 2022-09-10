@@ -16,14 +16,29 @@ I'm a people-first engineer with over a decade of experience. I'm flexible on im
 
 # Recent Experience
 
-## Senior Software Engineer, [Lattice](http://www.lattice.com]
+## Senior Software Engineer, [Lattice](http://www.lattice.com)
 
 _2021, October – current (San Francisco)_
 
+### Role ###
+Senior engineer in the performance reviews product domain, made up of 3 pods of 20 total engineers. 
+
+### Domain ###
+Reviews is the business-critical product for Lattice today. Nearly all customers use reviews and then adopt additional products as needed. By an order of magnitude, reviews is the largest revenue driver and along with that comes the largest portion of the monolith codebase powering by far the largest customer scale (single review cycles of >5k employees with 200k individual rating responses).
+
+### Delivery & Leadership ###
 - Owned 1 of 3 critical-path projects on large feature change across massive legacy codebase (total scope 20+ dev-years)
 - Project lead and anchor engineer for 1.5 dev-year project to redesign analytics backend from the ground up
-- Closely involved in technical planning and execution across 4 peer product teams in product domain
-- Officially mentored several peers, including facilitating L1 through rapid promotion to L2
+- Closely involved in technical planning and execution across 3 peer product teams in product domain
+
+### Org Impact ###
+- Created new interview question from scratch with accompanying training materials
+  - question consistently praised by interviewers as effective and interviewees as fair/realistic
+- Ceaselessly improving all aspects of the technical interview process
+  - evolving our intern/L1 process to fairly evaluate bootcamp grads
+  - go-to person for technical recruiters for everything from last-minute fill-ins to understanding our hiring philosophy
+- Officially mentored multiple peers, including coaching a junior L1 through rapid promotion to L2
+- Facilitated an engineer book club on functional domain modeling resulting in cross-pollination of ideas across teams
 
 ## Software Engineering Apprenticeship Manager, [Techtonica](https://techtonica.org)
 
