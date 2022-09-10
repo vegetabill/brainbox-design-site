@@ -12,9 +12,18 @@ permalink: /cv/
 
 ## Me in a Nutshell
 
-I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part of many of my roles has been coaching others and seeing them succeed.
+I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product and technical vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part of many of my roles has been coaching others and seeing them and their projects flourish.
 
 # Recent Experience
+
+## Senior Software Engineer, [Lattice](http://www.lattice.com]
+
+_2021, October – current (San Francisco)_
+
+- Owned 1 of 3 critical-path projects on large feature change across massive legacy codebase (total scope 20+ dev-years)
+- Project lead and anchor engineer for 1.5 dev-year project to redesign analytics backend from the ground up
+- Closely involved in technical planning and execution across 4 peer product teams in product domain
+- Officially mentored several peers, including facilitating L1 through rapid promotion to L2
 
 ## Software Engineering Apprenticeship Manager, [Techtonica](https://techtonica.org)
 
@@ -22,38 +31,27 @@ _2020, January - July (San Francisco)_
 
 - Managed fourth cohort of non-profit bootcamp that provides free training with stipend for low-income women and non-binary residents of the Bay Area
 - Directly managed 13 apprentice engineers learning full-stack web development using JavaScript
-- Navigated program through COVID transition from co-located to fully remote with 10 apprentices graduating and 100% internship placement
-- Revised [open-source curriculum](https://github.com/Techtonica/curriculum#welcome-to-the-techtonica-curriculum) based on feedback, industry standards, and effectiveness
-- Used adaptive learning model to coach each apprentice to succeed in their learning goals and prep for their internships
-- Coordinated volunteer assignment reviewers, curriculum hackathons, and mock interview days
-- Advised founder and board on program technical vision
+- Navigated program through unplanned COVID transition from co-located in SF to fully remote
 - Created role documentation, backlog, and vision to ensure continuity
+- Advised board on program technical vision
 
 ## Lead Developer (SDE3/L6), [Goodreads](https://www.goodreads.com/about/us) (Amazon)
 
 _2014-2019 (San Francisco)_
 
-### _Confidential Platform Project (2019)_
-
-- Key code contributor to proof-of-concept architecture and presenter for company-wide demo which resulted in management funding of initiative
-- Part-time program manager for large-scale, cross-team project currently involving all five engineering teams and several engineer-years of planned scope
-
 ### Revenue Engineering Team (2017-2019)
 
-- Led team of 7 other engineers to deliver ad products, author promotion features, and internal tools for largest business unit in the org, collecting >\$1MM monthly revenue
-- Conducted regular 1:1's with all engineers on the team as well as product managers and other senior technical leaders
-- Analyzed and estimated 3-18 dev month projects for business and technical stakeholders
-- Coached first-time Tech Lead to help them empower team and Process Lead in improving kanban process
+- Led team of 7 other engineers to deliver ad products and author promo features for largest business unit in the org, collecting >\$1MM monthly revenue
+- Coached engineers on the team via regular 1:1's as well as advising product managers and other senior technical leaders
+- Analyzed and estimated multiple projects for business and technical stakeholders ranging in size up to 24 dev-months
+- Coached first-time Tech Lead to build confidence and empower team
 
 ### Cross-Team/Cross-Project Contributions
 
-- Co-organizer of Lightning Talk series for engineering and product/design to share their stories
-- Founder of Engineering Learning & Development committee
-  - Worked with Customer Service L&D Lead to locate existing training and create new content
-  - Ran Giving Effective Feedback workshop for engineers (using ideas from [Lara Hogan](https://larahogan.me/))
-- Formally mentored several junior engineers, both within Goodreads, AWS AI, Amazon Music
-- Evangelized React Native and GraphQL through talks and three hackathon projects, culminating in Mobile Apps team selecting them for a production feature
-- Evangelized team ownership of process via slide decks and coaching which led to two other teams adopting their own custom lean process
+- Co-founder of Lightning Talk series for engineering and product/design to share their stories
+- Formally mentored several junior engineers within Goodreads, AWS, and Amazon Music
+- Evangelized React Native and GraphQL through talks and multiple hackathon projects, resulting in adoption for production features
+- Ceaseless kaizen cheerleading led to two peer teams adopting a custom lean process with improved productivity and satisfaction
 
 ### Homepage Rebuild (2016)
 
@@ -63,7 +61,6 @@ _2014-2019 (San Francisco)_
 - Implementer of integration infrastructure to bridge new React with existing Rails
   - Pull requests and other contributions to [react-rails gem](https://github.com/reactjs/react-rails/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Avegetabill+)
 - Established official standards for view code on web using a living style guide, example code, and docs. Spread these new ideas across ~50 engineers at 2 office locations via instructor-led training and self-serve tutorials
-- Continued as steward of standards outside of team responsibilities, including new code using Redux
 
 ## Lead Developer, [ThoughtWorks Products](https://www.thoughtworks.com/what-we-do/products)
 
@@ -73,9 +70,8 @@ _2010-2014 (San Francisco)_
 
 - Evolved an on-premise Java/JRuby app to a multi-tenant SaaS system supporting 40K users
 - Extracted separate service to handle user license data
-- Formally mentored several junior developers
 - Promoted the product with salespeople at several conferences
-- Provided L3 production support for global customers, including occasional site visits
+- Provided L3 production support for global customers, including site visits
 
 ## Selected Writing
 
@@ -88,11 +84,9 @@ _2010-2014 (San Francisco)_
 
 ## Extracurriculars
 
-- [Techtonica](https://techtonica.org/) - Volunteer. Non-profit software boot camp offered tuition-free with stipend to Bay Area women/non-binary low-income residents.
-- [Railsbridge](http://railsbridge.org/) - Volunteer teacher (current) and event organizer (previously). Community-run open-source workshops teaching Rails to women.
-  - Created [Teacher Cheat Sheet](https://github.com/railsbridge/docs/blob/dca09306e0906c6a328267db61dfcffbad51e78a/sites/en/workshop/teacher_cheat_sheet.md) to help new volunteers
+- [Techtonica](https://techtonica.org/) - Volunteer mentor. Non-profit software boot camp offered tuition-free with stipend to Bay Area women/non-binary low-income residents.
 
-## Education
+## Formal Education
 
 - MS, Information Science. University of Pittsburgh.
   Pittsburgh, PA, USA
