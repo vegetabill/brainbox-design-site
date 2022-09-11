@@ -4,7 +4,7 @@ title: C.V. (Résumé)
 permalink: /cv/
 ---
 
-![headshot](/assets/cv-headshot.jpg){:class="cv-headshot"}
+![headshot](https://www.gravatar.com/avatar/7f94f5202ecca1ce8d843f1ba13601a0?s=200){:class="cv-headshot"}
 
 # Hi, I'm Bill!
 
@@ -12,7 +12,7 @@ permalink: /cv/
 
 ## Me in a Nutshell
 
-I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product and technical vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part of many of my roles has been coaching others and seeing them and their projects flourish.
+I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product and technical vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part my role is often been coaching others and seeing them and their projects flourish.
 
 # Recent Experience
 
