@@ -12,7 +12,7 @@ permalink: /cv/
 
 ## Me in a Nutshell
 
-I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product and technical vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part my role is often been coaching others and seeing them and their projects flourish.
+I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product and technical vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part my role is often coaching others and seeing them and their projects flourish.
 
 # Recent Experience
 
