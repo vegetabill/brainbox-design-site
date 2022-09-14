@@ -12,7 +12,7 @@ permalink: /cv/
 
 ## Me in a Nutshell
 
-I'm a people-first engineer with a decade-long track record of delivering consumer-grade SaaS products. I prefer to be more stubborn on technical vision while staying flexible on implementation choices. Even more than shipping user delight, the most rewarding part my role is often coaching others and seeing them produce amazing work.
+I'm a people-first engineer with a decade-long track record of delivering consumer-grade SaaS products. I prefer to be more stubborn on technical vision while staying flexible on implementation choices. Even more than shipping user delight, the most rewarding part of my role is often coaching others and seeing them produce amazing work.
 
 # Recent Experience
 
@@ -20,11 +20,12 @@ I'm a people-first engineer with a decade-long track record of delivering consum
 
 _2021, October – current (San Francisco)_
 
-### Role ###
-Senior engineer in the performance reviews product domain, made up of 4 pods with 20 total engineers. 
+### Current Role
 
-### Domain ###
-Reviews is the business-critical product for Lattice today. Nearly all customers use reviews and then adopt additional products as needed. By an order of magnitude, reviews is the largest revenue driver and along with that comes the largest portion of the monolith codebase powering by far the largest customer scale (single review cycles of >5k employees with 200k individual rating responses).
+Senior engineer in Lattice's performance reviews product domain, owned by 18 engineers across 4 teams. 
+
+Reviews is the business-critical product for Lattice today, empowering enterprise customers to run review cycles with thousands of employees. This business value is backed by the majority of the company's monolithic codebase and DB rows.
+
 
 ### Delivery & Leadership ###
 - Owned 1 of 3 critical-path projects on large feature change across massive legacy codebase (total scope 20+ dev-years)
