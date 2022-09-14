@@ -12,7 +12,7 @@ permalink: /cv/
 
 ## Me in a Nutshell
 
-I'm a people-first engineer with over a decade of experience. I'm flexible on implementation but stubborn on product and technical vision. Even more than shipping product, I'm proudest of the processes my teams have evolved through kaizen. The most rewarding part my role is often coaching others and seeing them and their projects flourish.
+I'm a people-first engineer with a decade-long track record of delivering consumer-grade SaaS products. I prefer to be more stubborn on technical vision while staying flexible on implementation choices. Even more than shipping user delight, the most rewarding part my role is often coaching others and seeing them produce amazing work.
 
 # Recent Experience
 
@@ -21,7 +21,7 @@ I'm a people-first engineer with over a decade of experience. I'm flexible on im
 _2021, October – current (San Francisco)_
 
 ### Role ###
-Senior engineer in the performance reviews product domain, made up of 3 pods of 20 total engineers. 
+Senior engineer in the performance reviews product domain, made up of 4 pods with 20 total engineers. 
 
 ### Domain ###
 Reviews is the business-critical product for Lattice today. Nearly all customers use reviews and then adopt additional products as needed. By an order of magnitude, reviews is the largest revenue driver and along with that comes the largest portion of the monolith codebase powering by far the largest customer scale (single review cycles of >5k employees with 200k individual rating responses).
