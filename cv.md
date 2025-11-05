@@ -8,7 +8,7 @@ permalink: /cv/
 
 # Hi, I'm Bill!
 
-[he/him](https://pronoun.is/he) • [💻 GitHub/vegetabill](https://www.github.com/vegetabill) • [🐦 @immutabill](https://www.twitter.com/immutabill) • [📚 Goodreads](https://www.goodreads.com/free-ebooks)
+[he/him](https://pronoun.is/he) • [💻 GitHub/vegetabill](https://www.github.com/vegetabill) • [📚 Goodreads](https://www.goodreads.com/free-ebooks)
 
 ## Me in a Nutshell
 
@@ -18,21 +18,24 @@ I'm a people-first engineer with a decade-long track record of delivering consum
 
 ## Senior Software Engineer, [Lattice](http://www.lattice.com)
 
-_2021, October – current (San Francisco)_
+_2021, October – 2023, January (San Francisco)_
 
-### Current Role
+_💾 Tech stacks: GraphQL, Postgres, TS, React w/Relay, SQS Events_
 
-Senior engineer in Lattice's performance reviews product domain, owned by 18 engineers across 4 teams. 
+### Most Recent Role
 
-Reviews is the business-critical product for Lattice today, empowering enterprise customers to run review cycles with thousands of employees. This business value is backed by the majority of the company's monolithic codebase and DB rows.
+Senior engineer in Lattice's performance reviews product domain, owned by 18 engineers across 4 teams.
 
+Reviews was the business-critical product for Lattice, empowering enterprise customers to run review cycles with thousands of employees. Made up the vast majority of the company's monolithic codebase and DB rows.
 
-### Delivery & Leadership ###
-- Owned 1 of 3 critical-path projects on large feature change across massive legacy codebase (total scope 20+ dev-years)
-- Project lead and anchor engineer for 1.5 dev-year project to redesign analytics backend from the ground up
-- Closely involved in technical planning and execution across 3 peer product teams in product domain
+### Delivery & Leadership
 
-### Org Impact ###
+- Project lead and anchor engineer on 3 dev-year initative to redesign analytics backend from the ground up using async events
+- Top contributor to documentation, runbooks, and DataDog custom dashboards
+- Project lead for CSV import/export, 1 of the 3 critical-path projects adding employee rating calibration feature across scary legacy codebase (~2 dev-year portion)
+
+### Org Impact
+
 - Created new interview question from scratch with accompanying training materials
   - question consistently praised by interviewers as effective and interviewees as fair/realistic
 - Ceaselessly improving all aspects of the technical interview process
@@ -45,6 +48,8 @@ Reviews is the business-critical product for Lattice today, empowering enterpris
 
 _2020, January - July (San Francisco)_
 
+_💾 Express, JS, Postgres, React_
+
 - Managed fourth cohort of non-profit bootcamp that provides free training with stipend for low-income women and non-binary residents of the Bay Area
 - Directly managed 13 apprentice engineers learning full-stack web development using JavaScript
 - Navigated program through unplanned COVID transition from co-located in SF to fully remote
@@ -55,9 +60,13 @@ _2020, January - July (San Francisco)_
 
 _2014-2019 (San Francisco)_
 
+_💾 Tech stacks: Rails, Python, Apache Spark, React, Java, MySQL_
+
 ### Revenue Engineering Team (2017-2019)
 
-- Led team of 7 other engineers to deliver ad products and author promo features for largest business unit in the org, collecting >\$1MM monthly revenue
+- Led team of 7 other engineers to deliver ad products and author promo features for largest business unit in the org, collecting $2MM monthly revenue
+- Partnered with Kindle engineering teams to share ebook deal data via internal schema-based publishing platform
+- Resolved on-call tickets for Kindle-facing services, overnight email pipeline, and public website both as SME and coordinating with other ops and engineering teams inside and outside Goodreads
 - Coached engineers on the team via regular 1:1's as well as advising product managers and other senior technical leaders
 - Analyzed and estimated multiple projects for business and technical stakeholders ranging in size up to 24 dev-months
 - Coached first-time Tech Lead to build confidence and empower team
