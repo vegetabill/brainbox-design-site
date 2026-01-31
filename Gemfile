@@ -10,6 +10,10 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
 
+# https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-serve-cannot-load-such-file
+gem "rexml"
+gem "webrick"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
