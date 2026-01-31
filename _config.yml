@@ -13,22 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Brainbox
-subtitle: Making pixels do what you want since 2005
+title: Bill's Brainbox
+subtitle: Dance pixels dance!
 author: Bill DePhillips
-email: bill@brainbox.design
+email: immutabill@fastmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog of Bill DePhillips, software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 show_excerpts: true
-url: "http://brainbox.design" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://immutabill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: immutabill
-github_username:  vegetabill
+github_username: vegetabill
 goodreads_username: free-ebooks
 linkedin_username: bill-dephillips
 minima:
-  date_format: '%-d %B %Y'
+  date_format: "%-d %B %Y"
 
 # Build settings
 markdown: kramdown

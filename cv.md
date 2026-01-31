@@ -31,8 +31,10 @@ Reviews was the business-critical product for Lattice, empowering enterprise cus
 ### Delivery & Leadership
 
 - Project lead and anchor engineer on 3 dev-year initative to redesign analytics backend from the ground up using async events
+- Key contributor migrating monolith code to use new microservices
 - Top contributor to documentation, runbooks, and DataDog custom dashboards
 - Project lead for CSV import/export, 1 of the 3 critical-path projects adding employee rating calibration feature across scary legacy codebase (~2 dev-year portion)
+- Integrated Google Cloud API for text sentiment analysis including handling provider rate limiting
 
 ### Org Impact
 
