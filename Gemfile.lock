@@ -72,7 +72,7 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
-  minima (~> 2.0)
+  minima (~> 2.5, >= 2.5.2)
   rexml
   tzinfo-data
   webrick
