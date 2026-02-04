@@ -102,16 +102,10 @@ _2010-2014 (San Francisco)_
 
 ## Selected Writing
 
-- [Stepping Stones Along Your Software Engineering Career Path](http://brainbox.design/2019/09/10/stepping-stones.html)
-- [Your Backlog is a Fridge](http://dephillipsdesign.com/2018/06/your-backlog-is-a-fridge/) - blog
-- [Status Quo Culture of Disrupt 2012](http://dephillipsdesign.com/2012/09/the-status-quo-culture-at-sf-disrupt-2012/) - blog
+- [Stepping Stones Along Your Software Engineering Career Path](/2019/09/10/stepping-stones.html)
+- [Your Backlog is a Fridge](/2018/06/22/your-backlog-is-a-fridge.html) - blog
 - [Kanban vs Scrum](https://docs.google.com/presentation/d/1QNLtDDzZD0ShUVShkvVNcae-yo37WVTWuWZbxpTH3vk/edit?usp=sharing) - slide deck
-- [Lessons from a Failed Rails Upgrade](https://www.thoughtworks.com/insights/blog/rails-3-upgrade-lessons) - blog
-- [Lift and Shift? Try Resize to Fit](https://bit.ly/2yzcI02) - slides from ThoughtWorks NA Conference, ~50 attendees
-
-## Extracurriculars
-
-- [Techtonica](https://techtonica.org/) - Volunteer mentor. Non-profit software boot camp offered tuition-free with stipend to Bay Area women/non-binary low-income residents.
+- [Lift and Shift? Try Resize to Fit](/assets/Lift%20and%20Shift-%20Try%20Resize%20to%20Fit.pdf) - PDF slides from ThoughtWorks North America internal conference, ~50 attendees
 
 ## Formal Education
 
