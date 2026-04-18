@@ -16,3 +16,13 @@
   float: left;
   margin-right: 20px;
 }
+
+.screenshot {
+  width: 50%;
+  max-width: 250px;
+  border: 2px dotted teal;
+
+  &:hover {
+    border: 2px solid navy;
+  }
+}
